@@ -1,0 +1,16 @@
+.category,.photo-item{
+  float:left;
+
+}
+.category1{
+  display: inline-block;
+}
+.main-content::after{
+  content: "";
+  clear: both;
+  display:block;
+
+}
+.photo{
+text-align: center;
+}
